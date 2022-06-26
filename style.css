@@ -1,0 +1,59 @@
+body{
+}
+
+.titulosite {
+	text-align: center;
+	color: #c0172b
+}
+
+.principal{
+	background: #2a6cc3;
+	padding: 20px;
+}
+
+.titulocentro {
+	text-align: center;
+	color:  #FFFFFF;
+	font-size: 20px;
+}
+
+p{
+	text-align: center;
+}
+
+#destaque {
+	color:  #FFFFFF;
+}
+
+#tamfontemis {
+	font-size:20px;
+}
+
+em strong{
+	color: #FFFFFF;
+}
+
+.beneficios {
+	background: #c0172b;
+	text-align: left;
+	color:  #FFFFFF;
+	padding:  20px;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 25%;
+	font-size: 20px;
+}
+
+.itens {
+	font-style: italic;
+	color:  #000000;
+	margin-left: 35%;
+}
+
+.imgbeneficios{
+	width: 50%;
+}
